@@ -79,7 +79,7 @@ firstTitle: I'm
 secondTitle: Achyutmanas Tiwari,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
+firstTitle: MERN Stack
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
@@ -98,7 +98,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:achyutmanastiwari10@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -120,15 +120,15 @@ link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/tiwariam656
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/manas-27
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/manas27_10
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
